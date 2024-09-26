@@ -1,8 +1,10 @@
 <h1 align="left">👋 About me</h1>
 
-###
 
-<p align="left">Hello, I'm Diego Bezerra de Paula!<br><br>I'm a passionate software developer with a love for crafting clean, efficient, and scalable solutions. With a strong background in Python, Kotlin, I focus on creating meaningful applications that merge modern design with top-tier functionality. I'm constantly exploring new technologies to stay at the cutting edge of the software development world.</p>
+###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F715&width=435&lines=Hello%2C+I'm+Diego+B.+de+Paula!)](https://git.io/typing-svg)
+
+<p align="left">I'm a passionate software developer with a love for crafting clean, efficient, and scalable solutions. With a strong background in Python, Kotlin, I focus on creating meaningful applications that merge modern design with top-tier functionality. I'm constantly exploring new technologies to stay at the cutting edge of the software development world.</p>
 
 ###
 
